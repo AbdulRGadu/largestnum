@@ -11,7 +11,6 @@ namespace basics;
 class Program
 {
     //static List<int> numbers = new List<int> { 2, 3, 4, 5, 6, 6 };
-//static int mon = 12;
     static void Main(string[] args)
     {
 
